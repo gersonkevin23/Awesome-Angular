@@ -1070,9 +1070,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Authentication in Angular with NGRX](https://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx)
 
 ---
-
-enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__)
-
 ---
 
 ## License
